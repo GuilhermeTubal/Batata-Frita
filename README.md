@@ -13,3 +13,5 @@
  **Pala** *Pala*
 
  é uma tara de sabor
+
+ [Tara Perdida - Batata Frita pala pala](https://www.youtube.com/watch?v=u7I2_CE3-hc)
