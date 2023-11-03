@@ -1,6 +1,6 @@
-# Batata Frita #
+# Batata Frita 
 
-## Pala Pala ##
+## Pala Pala 
 
 é uma:
 
@@ -8,7 +8,7 @@
  - de 
  - sabor
 
- ### Batata Frita ###
+ ### Batata Frita 
 
  **Pala** *Pala*
 
